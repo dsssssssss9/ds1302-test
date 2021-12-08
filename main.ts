@@ -1,5 +1,25 @@
 /**
- * Added a set correct Time / Date option by presseing A+B after setting correct details in the Blocks under ON Button A+B
+ * Time is in 24hour format
+ * 
+ * Added a set correct Time / Date option by presseing A+B after setting correct details in the Blocks under ON Button A+B....
+ * 
+ * N.B
+ * 
+ * WEEKDAY is day number of week where....
+ * 
+ * Monday = 1
+ * 
+ * Tuesday = 2
+ * 
+ * Wednesday = 3
+ * 
+ * Thursday = 4
+ * 
+ * Friday = 5
+ * 
+ * Saturday = 6
+ * 
+ * Sunday = 7
  */
 // If Current Date/Time is wrong:
 // 
