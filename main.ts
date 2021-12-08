@@ -1,3 +1,6 @@
+/**
+ * Added a set correct Time / Date option by presseing A+B after setting correct details in the Blocks under ON Button A+B
+ */
 // If Current Date/Time is wrong:
 // 
 // Set correct details in these blocks
